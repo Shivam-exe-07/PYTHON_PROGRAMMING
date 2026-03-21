@@ -1,6 +1,6 @@
 # 🐍 Python Programming Journey
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.3-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 ![Programs](https://img.shields.io/badge/Programs-68+-orange?style=for-the-badge)
 
@@ -134,9 +134,8 @@ Make sure Python 3.x is installed, then:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/Shivam-exe-07/PYTHON_PROGRAMMING.git
+cd PYTHON_PROGRAMMING
 # Run any program
 python program930.py
 python program997.py
@@ -146,7 +145,7 @@ python program997.py
 
 ## Tech Stack
 
-- **Language:** Python 3.x
+- **Language:** Python 3.14.3
 - **Paradigms:** Procedural & Object-Oriented Programming
 - **IDE:** Any — VS Code, PyCharm, IDLE, etc.
 
